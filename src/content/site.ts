@@ -4,7 +4,7 @@
  * (Demo içerik — tüm veriler kurgusaldır.)
  */
 export const site = {
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://mira-dental-demo.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://clinic-demo3-9exp.vercel.app",
   brand: "Mira",
   name: { tr: "Mira Ağız ve Diş Sağlığı", en: "Mira Dental Studio" },
   descriptor: { tr: "Ağız ve Diş Sağlığı", en: "Dental Studio" },
